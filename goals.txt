@@ -1,0 +1,9 @@
+CRUD OPERATIONS:
+
+1. GET : GET ALL THE BOOKS => routes => /books
+
+2. GET SINGLE : GET SINGLE BOOKS  BY ID => routes => books/:id
+
+3. UPDATE BOOKS : UPDATE A SINGLE BOOK => routes => books/:id (query for update data)
+
+4. DELETE SINGLE BOOK : DELETE A SINGLE BOOK => router => books/:id 
